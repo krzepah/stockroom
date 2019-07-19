@@ -1,7 +1,7 @@
 {
-  "name": "stockroom",
-  "version": "1.0.1",
-  "description": "Offload your store management to a worker.",
+  "name": "mutaroom",
+  "version": "0.0.0",
+  "description": "Offload your mutastore to a worker.",
   "source": "src/index.js",
   "module": "dist/stockroom.es.js",
   "main": "dist/stockroom.js",
@@ -50,7 +50,7 @@
   ],
   "keywords": [
     "preact",
-    "unistore",
+    "mutastore",
     "state machine",
     "worker",
     "threads",
@@ -91,6 +91,6 @@
     "workerize-loader": "^1.0.1"
   },
   "peerDependencies": {
-    "unistore": "*"
+    "mutastore": "*"
   }
 }
