@@ -86,7 +86,7 @@
     "sinon": "^4.2.2",
     "sinon-chai": "^2.14.0",
     "strip-json-comments-cli": "^1.0.1",
-    "unistore": "^3.0.4",
+    "mutastore": "^0.0.2",
     "webpack": "^3.10.0",
     "workerize-loader": "^1.0.1"
   },
