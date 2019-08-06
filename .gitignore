@@ -1,7 +1,4 @@
 node_modules
 npm-debug.log
-/inline
-/worker
-/dist
 /demo/build
 package-lock.json
